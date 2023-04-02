@@ -35,7 +35,3 @@ $ yarn run test:cov
 - Author - [Kalisa Ngabo Kevin](https://kalisangabokevin.com)
 - LinkedIn-[Kalisa Kevin](https://www.linkedin.com/in/kalisa-ngabo-kevin-6717781b7)
 - Twitter - [kalisa kevin](https://twitter.com/Kalisakevin_)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
